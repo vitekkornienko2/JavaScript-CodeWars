@@ -1,2 +1,0 @@
-// My first code, it's very small.
-/* My second comment, it's few longer */
